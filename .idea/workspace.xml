@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="" />
+    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Q1242230510-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Q2140036040-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034060-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034310-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034520-L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/a_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/arrow_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/back1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/back2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/call_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/ctgongsizhuce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/hm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/iconBack10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/inviteBack9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/pc_nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/phone_background_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/phone_bakground_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/phone_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/point_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/poll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/q_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/spot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/three_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/txet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/v.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/woman_blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/woman_gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshan/zc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/foshan.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,33 +65,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/2">
+        <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60268">
-              <caret line="3172" column="39" selection-start-line="3172" selection-start-column="39" selection-end-line="3172" selection-end-column="39" />
+            <state relative-caret-position="190">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/common.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="1030" selection-start-line="1030" selection-end-line="1030" />
+            <state relative-caret-position="-25">
+              <caret line="218" selection-start-line="218" selection-end-line="218" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/brand.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/foshan.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="161" column="25" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="25" />
+            <state relative-caret-position="532">
+              <caret line="79" column="39" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4949#4955#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#22675#22681#0#HTML" expanded="true" />
+                <element signature="e#22685#22691#0#HTML" expanded="true" />
+                <element signature="e#22708#22714#0#HTML" expanded="true" />
+                <element signature="e#22717#22723#0#HTML" expanded="true" />
+                <element signature="e#22729#22735#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/foshan/b.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/foshan/poll">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/foshan/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/foshan/zc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1142">
+              <caret line="616" column="28" lean-forward="true" selection-start-line="616" selection-start-column="28" selection-end-line="616" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -49,24 +179,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>body</find>
-      <find>content</find>
-      <find>对一服</find>
-      <find>./首页_广东老街企业管理有限公司_files</find>
-      <find>站式企业服</find>
-      <find>css</find>
-      <find>.css</find>
-      <find>201803081554_01.jpg</find>
-      <find>/template/images</find>
-      <find>phone</find>
-      <find>images</find>
-      <find>rout</find>
-      <find>./公司注册_广东老街企业管理有限公司_files</find>
-      <find>类型</find>
-      <find>./商标注册_广东老街企业管理有限公司_files</find>
-      <find>./进出口权_广东老街企业管理有限公司_files</find>
-      <find>./工商变更_广东老街企业管理有限公司_files</find>
-      <find>./代理记账_广东老街企业管理有限公司_files</find>
       <find>demo1</find>
       <find>1-0.png</find>
       <find>demo</find>
@@ -76,6 +188,27 @@
       <find>老街</find>
       <find>mobile</find>
       <find>ismobile</find>
+      <find>background.jpg</find>
+      <find>back</find>
+      <find>/c/img</find>
+      <find>./佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files</find>
+      <find>bac</find>
+      <find>.css</find>
+      <find>qiao.baidu.com</find>
+      <find>点我立即咨询</find>
+      <find>&lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://p.qiao.baidu.com/cps/chat?siteId=7702124&amp;userId=10993187&quot;&gt;点我立即咨询&lt;/a&gt;</find>
+      <find>春天财务</find>
+      <find>kuaiji</find>
+      <find>400-808-8201</find>
+      <find>在线</find>
+      <find>png</find>
+      <find>jpg</find>
+      <find>iconBack10</find>
+      <find>baidu.com</find>
+      <find>b.js</find>
+      <find>欢迎来到春天财务</find>
+      <find>春天</find>
+      <find>.js</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -84,7 +217,17 @@
       <replace>image</replace>
       <replace>./image</replace>
       <replace>好时光</replace>
+      <replace>./佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files</replace>
+      <replace>./foshan</replace>
+      <replace>../foshan</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;&gt;点我立即咨询&lt;/a&gt;</replace>
+      <replace>大好时光</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;</replace>
+      <replace>400-850-0074</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,7 +236,6 @@
         <option value="$PROJECT_DIR$/resources/views/index2.blade.php" />
         <option value="$PROJECT_DIR$/public/css/layout.css" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/agency.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/cancel.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/power.blade.php" />
@@ -104,6 +246,12 @@
         <option value="$PROJECT_DIR$/../Desktop/index.html" />
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/public/js/2" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司.html" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/zc.css" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/public/foshan/zc.css" />
+        <option value="$PROJECT_DIR$/public/foshan/b.js" />
+        <option value="$PROJECT_DIR$/resources/views/foshan.blade.php" />
       </list>
     </option>
   </component>
@@ -188,17 +336,19 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1020" />
     <option name="height" value="546" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,7 +371,7 @@
               <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
               <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="foshan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
@@ -243,29 +393,29 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/foshan" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\dahaosg\public\image" />
-      <recent name="C:\Users\Administrator\dahaosg\public\js" />
-      <recent name="C:\Users\Administrator\dahaosg\public\css" />
-      <recent name="C:\Users\Administrator\dahaosg\resources\image" />
-      <recent name="C:\Users\Administrator\dahaosg\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\dahaosg\public\image" />
       <recent name="C:\Users\Administrator\dahaosg\public\css" />
       <recent name="C:\Users\Administrator\dahaosg\public\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
+      <recent name="C:\Users\Administrator\dahaosg\public\image" />
+      <recent name="C:\Users\Administrator\dahaosg\public\js" />
+      <recent name="C:\Users\Administrator\dahaosg\public\css" />
+      <recent name="C:\Users\Administrator\dahaosg\resources\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,17 +450,19 @@
       <workItem from="1555337195804" duration="4697000" />
       <workItem from="1555376801126" duration="19181000" />
       <workItem from="1555411966450" duration="639000" />
+      <workItem from="1555474748749" duration="2216000" />
+      <workItem from="1555493587274" duration="4392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26167000" />
+    <option name="totallyTimeSpent" value="32775000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24468085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19224924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -331,7 +483,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24088146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1831307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,61 +519,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/image/201803081554_08.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/views/index2.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/首页_广东老街企业管理有限公司.html" />
-    <entry file="file://$PROJECT_DIR$/public/image/201803081559_01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/image/201803081554_01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/代理记账_广东老街企业管理有限公司_files/kf_ivt_new.php" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/工商变更_广东老街企业管理有限公司_files/index.js" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/工商变更_广东老街企业管理有限公司_files/hm.js" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/工商变更_广东老街企业管理有限公司_files/bannerList.js" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/工商变更_广东老街企业管理有限公司_files/common.js" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/工商变更_广东老街企业管理有限公司_files/jquery-1.4.2.flp.js" />
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/jquery-1.4.2.flp.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/jquery-1.10.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/common.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/hm.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/bannerList.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/bannerList.js" />
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司_files/index.js" />
     <entry file="file://$PROJECT_DIR$/public/css/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -449,32 +548,6 @@
     <entry file="file://$PROJECT_DIR$/../Desktop/网页/商标注册_广东老街企业管理有限公司.html" />
     <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注销_广东老街企业管理有限公司.html" />
     <entry file="file://$PROJECT_DIR$/../Desktop/网页/进出口权_广东老街企业管理有限公司.html" />
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/cancel.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6099">
-          <caret line="384" column="26" selection-start-line="384" selection-start-column="26" selection-end-line="384" selection-end-column="26" />
-          <folding>
-            <element signature="e#15152#15178#0#HTML" expanded="true" />
-            <element signature="e#15351#15377#0#HTML" expanded="true" />
-            <element signature="e#15636#15661#0#HTML" expanded="true" />
-            <element signature="e#15947#15972#0#HTML" expanded="true" />
-            <element signature="e#16266#16292#0#HTML" expanded="true" />
-            <element signature="e#16658#16684#0#HTML" expanded="true" />
-            <element signature="e#16859#16885#0#HTML" expanded="true" />
-            <element signature="e#17153#17179#0#HTML" expanded="true" />
-            <element signature="e#17446#17472#0#HTML" expanded="true" />
-            <element signature="e#17738#17764#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/power.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -522,20 +595,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="98" lean-forward="true" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司.html" />
+    <entry file="file://$PROJECT_DIR$/../Desktop/index.html" />
     <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2318">
@@ -599,20 +660,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/common.js">
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/b.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/hm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/pc_nb.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/zc.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1030" selection-start-line="1030" selection-end-line="1030" />
+        <state relative-caret-position="220">
+          <caret line="3927" column="8" lean-forward="true" selection-start-line="3927" selection-end-line="3928" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/brand.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
+        <state relative-caret-position="922">
           <caret line="161" column="25" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="88" column="89" selection-end-line="424" selection-end-column="3666" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cancel.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="384" column="26" selection-start-line="384" selection-start-column="26" selection-end-line="384" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="97" column="10" lean-forward="true" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#a#6;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/pc_nb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/b.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/poll">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/hm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="226" selection-start-line="1" selection-start-column="224" selection-end-line="1" selection-end-column="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1142">
+          <caret line="616" column="28" lean-forward="true" selection-start-line="616" selection-start-column="28" selection-end-line="616" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshan.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="79" column="39" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4949#4955#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#9;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#22675#22681#0#HTML" expanded="true" />
+            <element signature="e#22685#22691#0#HTML" expanded="true" />
+            <element signature="e#22708#22714#0#HTML" expanded="true" />
+            <element signature="e#22717#22723#0#HTML" expanded="true" />
+            <element signature="e#22729#22735#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

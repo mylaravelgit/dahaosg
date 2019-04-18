@@ -12,9 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('foshan');
 });
-Route::get('/brand', function () {
+/*Route::get('/brand', function () {
     return view('brand');
 });
 
