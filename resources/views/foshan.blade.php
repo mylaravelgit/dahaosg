@@ -35,10 +35,10 @@
                 <li><a href="javascript:void(0);">代理记账</a></li>
                 <li><a href="javascript:void(0);">工商服务</a></li>
                 <li><a href="javascript:void(0);">财税服务</a></li>
-                <li><a href="javascript:void(0);">公司变更</a></li>
-                <li><a href="javascript:void(0);">商标注册</a></li>
-                <li><a href="javascript:void(0);">知识产权</a></li>
-                <li><a href="javascript:void(0);">行政许可</a></li>
+{{--                <li><a href="javascript:void(0);">公司变更</a></li>--}}
+{{--                <li><a href="javascript:void(0);">商标注册</a></li>--}}
+{{--                <li><a href="javascript:void(0);">知识产权</a></li>--}}
+{{--                <li><a href="javascript:void(0);">行政许可</a></li>--}}
             </ul>
         </div>
     </div>
@@ -101,22 +101,22 @@
             <h2>电话免费咨询佛山工商注册公司方案</h2>
             <table>
                 <tbody><tr>
-                    <td valign="middle" class="th1 th">服务项目</td>
+{{--                    <td valign="middle" class="th1 th">服务项目</td>--}}
                     <td valign="middle" class="th2 th">佛山公司注册前</td>
                     <td valign="middle" class="th3 th">佛山注册公司后</td>
                 </tr>
                 <tr>
-                    <td valign="middle" class="td1">项目一</td>
+{{--                    <td valign="middle" class="td1">项目一</td>--}}
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">注册佛山公司名称起什么样的结构？</td>
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">佛山公司代理记账怎么做？</td>
                 </tr>
                 <tr>
-                    <td valign="middle" class="td1">项目二</td>
+{{--                    <td valign="middle" class="td1">项目二</td>--}}
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">佛山公司注册地址该怎么选择？</td>
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">佛山公司报税怎么做？</td>
                 </tr>
                 <tr>
-                    <td valign="middle" class="td1">项目三</td>
+{{--                    <td valign="middle" class="td1">项目三</td>--}}
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">佛山公司注册需要多长时间？</td>
                     <td valign="middle" class="td2"><img src="./foshan/point.png" width="20" height="21" alt="" style="margin-bottom:4px;margin-right:10px;vertical-align:middle">公司合法避税怎么做？</td>
                 </tr>
@@ -202,37 +202,37 @@
                     </dd>
                 </dl>
             </div>
-            <div class="pure-u-1-2" style="background:url(./foshan/woman_gray.jpg) #f0f0f0 left center no-repeat; height:399px">
-                <dl class="rightT">
-                    <dt>自己办理佛山公司</dt>
-                    <dd>
-                        <p>跑来跑去浪费无谓的时间</p>
-                        <p>总有你考虑不到的方面</p>
-                        <p>去不熟悉的部门时间利用率低</p>
-                    </dd>
-                </dl>
-            </div>
+{{--            <div class="pure-u-1-2" style="background:url(./foshan/woman_gray.jpg) #f0f0f0 left center no-repeat; height:399px">--}}
+{{--                <dl class="rightT">--}}
+{{--                    <dt>自己办理佛山公司</dt>--}}
+{{--                    <dd>--}}
+{{--                        <p>跑来跑去浪费无谓的时间</p>--}}
+{{--                        <p>总有你考虑不到的方面</p>--}}
+{{--                        <p>去不熟悉的部门时间利用率低</p>--}}
+{{--                    </dd>--}}
+{{--                </dl>--}}
+{{--            </div>--}}
         </div>
         <table>
             <tbody><tr>
                 <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
                 <td valign="middle" class="td2"><div class="c_m">省钱</div></td>
-                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理也需要交付政府规定费用，还需要交通费及时间</td>
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理也需要交付政府规定费用，还需要交通费及时间</td>--}}
             </tr>
             <tr>
                 <td valign="middle" class="td1">全程佛山代办公司注册，可提供佛山公司注册地址 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
                 <td valign="middle" class="td2"><div class="c_m">省心</div></td>
-                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">需要找佛山公司注册地址，再跑佛山工商注册流程</td>
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">需要找佛山公司注册地址，再跑佛山工商注册流程</td>--}}
             </tr>
             <tr>
                 <td valign="middle" class="td1"> 精通佛山工商注册公司流程，最快只需3天 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
                 <td valign="middle" class="td2"><div class="c_m">省时</div></td>
-                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理不熟悉佛山工商注册流程，可能需要1个月时间</td>
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理不熟悉佛山工商注册流程，可能需要1个月时间</td>--}}
             </tr>
             <tr>
                 <td valign="middle" class="td1">佛山注册公司是复杂的过程，专业运营团队，简单快速 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
                 <td valign="middle" class="td2"><div class="c_m">省事</div></td>
-                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>--}}
             </tr>
             </tbody></table>
     </div>
@@ -255,68 +255,68 @@
                 <tbody>
                 <tr>
                     <th width="120">项目</th>
-                    <th width="274">名称</th>
+                    <th width="200">名称</th>
                     <th width="400">大好时光佛山代理注册公司</th>
-                    <th width="400">其他佛山代理注册公司</th>
+{{--                    <th width="400">其他佛山代理注册公司</th>--}}
                 </tr>
                 <tr>
                     <td rowspan="2" class="r_6_b"><b>服务速度</b></td>
                     <td class="name">佛山注册公司名称查询速度</td>
                     <td><div class="cz"></div>3个小时内</td>
-                    <td><div class="cn"></div>无法保证时效</td>
+{{--                    <td><div class="cn"></div>无法保证时效</td>--}}
                 </tr>
                 <tr>
                     <td class="name">佛山市工商局核名申请</td>
                     <td><div class="cz"></div>保证当天上报</td>
-                    <td><div class="cn"></div>极少做到</td>
+{{--                    <td><div class="cn"></div>极少做到</td>--}}
                 </tr>
                 <tr>
                     <td rowspan="2" class="r_6_b"><b>售后服务</b></td>
                     <td class="name">一对一顾问</td>
                     <td><div class="cz"></div>提供，对公司进行整合式管理</td>
-                    <td><div class="cn"></div>无</td>
+{{--                    <td><div class="cn"></div>无</td>--}}
                 </tr>
                 <tr>
                     <td class="name">公司信息数据归档</td>
                     <td><div class="cz"></div>提供，对公司进行整合式管理</td>
-                    <td><div class="cn"></div>无</td>
+{{--                    <td><div class="cn"></div>无</td>--}}
                 </tr>
                 <tr>
                     <td rowspan="4" class="r_6_b"><b>增值服务</b></td>
                     <td class="name">网络营销指导</td>
                     <td><div class="cz"></div>提供，一站式服务</td>
-                    <td><div class="cn"></div>极少提供</td>
+{{--                    <td><div class="cn"></div>极少提供</td>--}}
                 </tr>
                 <tr>
                     <td class="name">当月回访</td>
                     <td><div class="cz"></div>提供，让您的成长变得简单</td>
-                    <td><div class="cn"></div>无</td>
+{{--                    <td><div class="cn"></div>无</td>--}}
                 </tr>
                 <tr>
                     <td class="name">国家优惠政通知</td>
                     <td><div class="cz"></div>提供，让您第一时间享受利好政策</td>
-                    <td><div class="cn"></div>极少做到</td>
+{{--                    <td><div class="cn"></div>极少做到</td>--}}
                 </tr>
                 <tr>
                     <td class="name">提供免费财税咨询</td>
                     <td><div class="cz"></div>提供</td>
-                    <td><div class="cn"></div>部分提供</td>
+{{--                    <td><div class="cn"></div>部分提供</td>--}}
                 </tr>
                 <tr>
                     <td rowspan="3" class="r_6_b"><b>可靠性</b></td>
                     <td class="name">顾问/代理人/财务三重把关</td>
                     <td><div class="cz"></div>最大限度避免漏报、错报、晚报</td>
-                    <td><div class="cn"></div>无</td>
+{{--                    <td><div class="cn"></div>无</td>--}}
                 </tr>
                 <tr>
                     <td class="name">专用服务器/软件/数据多重备份</td>
                     <td><div class="cz"></div>信息系统安全可靠</td>
-                    <td><div class="cn"></div>无</td>
+{{--                    <td><div class="cn"></div>无</td>--}}
                 </tr>
                 <tr>
                     <td class="name">严密的保密制度</td>
                     <td><div class="cz"></div>制度严密、公司稳定、人员流动性低</td>
-                    <td><div class="cn"></div>极少做到</td>
+{{--                    <td><div class="cn"></div>极少做到</td>--}}
                 </tr>
                 </tbody>
             </table>
@@ -364,34 +364,7 @@
             </ul>
         </div>
     </div>
-    <div class="pure-u-1 r_14">
-        <div class="wrapper">
-            <h2>佛山注册公司您可能还需要的服务</h2>
-            <p style="margin-top:12px; font-size:16px; color:#909090">一站式服务 意在满足您的各项需求</p>
-            <ul><li>
-                    <div class="r_14_l_img" style="border:none"><a href="javascript:void(0);" title="佛山高明公司注册"><img src="./foshan/1-1Z10F034520-L.jpg" alt="佛山高明公司注册"></a></div>
-                    <a href="javascript:void(0);"><h4>佛山高明公司注册</h4></a>
-                </li>
-                <li>
-                    <div class="r_14_l_img" style="border:none"><a href="javascript:void(0);" onclick="open_chat()"  title="佛山三水公司注册"><img src="./foshan/1-1Z10F034310-L.jpg" alt="佛山三水公司注册"></a></div>
-                    <a href="javascript:void(0);" onclick="open_chat()" ><h4>佛山三水公司注册</h4></a>
-                </li>
-                <li>
-                    <div class="r_14_l_img" style="border:none"><a href="javascript:void(0);" onclick="open_chat()"  title="佛山顺德公司注册"><img src="./foshan/1-1Z10F034060-L.jpg" alt="佛山顺德公司注册"></a></div>
-                    <a href="javascript:void(0);" onclick="open_chat()" ><h4>佛山顺德公司注册</h4></a>
-                </li>
-                <li>
-                    <div class="r_14_l_img" style="border:none"><a href="javascript:void(0);" onclick="open_chat()"  title="佛山南海代办注册公司"><img src="./foshan/1-1Q2140036040-L.jpg" alt="佛山南海代办注册公司"></a></div>
-                    <a href="javascript:void(0);" onclick="open_chat()" ><h4>佛山南海代办注册公司</h4></a>
-                </li>
-                <li>
-                    <div class="r_14_l_img" style="border:none"><a href="javascript:void(0);" onclick="open_chat()"  title="佛山禅城公司注册"><img src="./foshan/1-1Q1242230510-L.jpg" alt="佛山禅城公司注册"></a></div>
-                    <a href="javascript:void(0);" onclick="open_chat()" ><h4>佛山禅城公司注册</h4></a>
-                </li>
 
-            </ul>
-        </div>
-    </div>
 </div>
 
 <div class="bott">
@@ -413,7 +386,7 @@
                 <li>丨</li>
                 <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>
             </ul>
-            <p>Copyright &#169; &nbsp;2018&nbsp;www.dahaosg.com&nbsp;All&nbsp;Rights&nbsp;Reserved</p>
+            <p>Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn">大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
         </div>
         <div class="zx-rig">
             <p>400-850-0074</p>
@@ -424,4 +397,4 @@
 
 
 
-<!-- end --></body></html>
+</body></html>

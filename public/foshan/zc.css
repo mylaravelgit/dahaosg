@@ -1865,7 +1865,7 @@ body {
 
 
 .r_4{ text-align:center}
-.r_4 h2{ margin-top:120px; font-size:36px;font-weight: normal;}
+.r_4 h2{ margin-top:120px; font-size:65px;font-weight: normal;}
 .r_4 dl.leftT{color:#fff; margin:104px 280px; text-align:right;float:right; width:340px;}
 
 .r_4 dl.rightT{color:#232323; margin:104px 280px; text-align:left;float:left; width:340px;}
@@ -2520,7 +2520,7 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
-.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:50%; height:334px; color:#fff; background-position: 0px 120px;}
 
 [hidden] {
     display: none !important;
@@ -3851,21 +3851,21 @@ body {
 
 
 .r_4{ text-align:center}
-.r_4 h2{ margin-top:120px; font-size:36px;font-weight: normal;}
+.r_4 h2{ margin-top:120px; font-size:65px;font-weight: normal;}
 .r_4 dl.leftT{color:#fff; margin:104px 280px; text-align:right;float:right; width:340px;}
 
 .r_4 dl.rightT{color:#232323; margin:104px 280px; text-align:left;float:left; width:340px;}
 .r_4 dl dt{font-size:36px; font-family:'Microsoft YaHei'; font-weight:bold; margin-bottom:36px}
-.r_4 dl dd p{font-size:18px; margin-bottom:12px}
+.r_4 dl dd p{font-size:25px; margin-bottom:12px}
 .r_4 table{width:100%; margin-top:52px}
 .r_4 table tr td, th{border:none;}
 .r_4 table tr{height:96px;}
-.r_4 table td.td1{width:41%; font-size:18px; text-align:right}
-.r_4 table td.td3{width:41%; font-size:18px; text-align:left}
+.r_4 table td.td1{width:41%; font-size:25px; text-align:right}
+.r_4 table td.td3{width:41%; font-size:25px; text-align:left}
 .r_4 table td img.l{margin-bottom:4px;margin-left:22px;margin-right:40px;vertical-align:middle}
 .r_4 table td img.r{margin-bottom:4px;margin-left:40px;margin-right:22px;vertical-align:middle}
 .r_4 table td.td2{width:8%; }
-.r_4 table td.td2 .c_m{width: 74px;height: 48px; background:url(../foshan/circle.png) no-repeat; color:#2e2e2e; font-size:22px; font-family:'Microsoft YaHei'; font-weight:bold; padding-top:26px;text-align:center; margin:0px auto}
+.r_4 table td.td2 .c_m{width: 74px;height: 48px; background:url(../foshan/circle.png) no-repeat; color:#2e2e2e; font-size:29px; font-family:'Microsoft YaHei'; font-weight:bold; padding-top:26px;text-align:center; margin:0px auto}
 .r_4 table tr:hover .c_m{background:url(../foshan/circle_hover.png) no-repeat; color:#fff;}
 
 .r_5{background: #1d65d4; color:#fff; text-align:center}
@@ -3887,17 +3887,17 @@ body {
 .r_7{
 	width: 100%;height: 600px;overflow: hidden;
 	text-align: left;
-	background-image: url(../foshan/back1.jpg);
+	/*background-image: url(../foshan/back1.jpg);*/
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .r_7 h2{
-	margin-top:150px; padding-bottom: 75px; font-size:36px;font-weight: normal;
+	margin-top:150px; padding-bottom: 75px; font-size:65px;font-weight: normal;
 }
 .r_7 ul li{width: 100%;height: 39px;margin-bottom: 11px;}
 .r_7 ul li div{ background:red;width: 39px;height: 39px; border-radius:50%;float: left;margin-right: 13px;}
 .r_7 ul li div img{ display:block; margin:0 auto;margin-top: 12px;}
-.r_7 ul li p{float: left;line-height: 39px; font-size:16px;color: #666;}
+.r_7 ul li p{float: left;line-height: 39px; font-size:25px;color: #666;}
 
 /* focus */
 .focus{width:100%;height:280px;float:left;position:relative; margin-top:70px; margin-bottom:50px}
