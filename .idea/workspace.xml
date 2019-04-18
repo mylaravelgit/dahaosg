@@ -225,7 +225,7 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1020" />
@@ -294,17 +294,17 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\dahaosg\public\image" />
-      <recent name="C:\Users\Administrator\dahaosg\public\css" />
-      <recent name="C:\Users\Administrator\dahaosg\public\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
       <recent name="C:\Users\Administrator\dahaosg\public\image" />
       <recent name="C:\Users\Administrator\dahaosg\public\js" />
       <recent name="C:\Users\Administrator\dahaosg\public\css" />
       <recent name="C:\Users\Administrator\dahaosg\resources\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\dahaosg\public\image" />
+      <recent name="C:\Users\Administrator\dahaosg\public\css" />
+      <recent name="C:\Users\Administrator\dahaosg\public\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,15 +341,15 @@
       <workItem from="1555411966450" duration="639000" />
       <workItem from="1555474748749" duration="2216000" />
       <workItem from="1555493587274" duration="4392000" />
-      <workItem from="1555552893002" duration="221000" />
+      <workItem from="1555552893002" duration="556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32996000" />
+    <option name="totallyTimeSpent" value="33331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19528875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
