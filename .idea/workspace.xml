@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Q1242230510-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Q2140036040-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034060-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034310-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/1-1Z10F034520-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/ctgongsizhuce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/foshan/logo2.png" afterDir="false" />
-    </list>
+    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,12 +341,12 @@
       <workItem from="1555411966450" duration="639000" />
       <workItem from="1555474748749" duration="2216000" />
       <workItem from="1555493587274" duration="4392000" />
-      <workItem from="1555552893002" duration="1041000" />
+      <workItem from="1555552893002" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33816000" />
+    <option name="totallyTimeSpent" value="33914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
