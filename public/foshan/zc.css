@@ -52,7 +52,7 @@ audio:not([controls]) {
  */
 
 html {
-    font-size: 100%; /* 1 */
+    font-size: 300%; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -2039,7 +2039,7 @@ audio:not([controls]) {
  */
 
 html {
-    font-size: 100%; /* 1 */
+    font-size: 300%; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -2234,8 +2234,8 @@ small {
 	float: left;
 }
 .iphone{
-	float: right;
 	padding-top: 30px;
+    padding-right: 150px;
 }
 .wire{
 	height:1px; width:100%; border-top:1px solid #fe8431;
@@ -2520,7 +2520,7 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
-.top {background:url(../foshan/background.jpg) top center no-repeat; width:50%; height:334px; color:#fff; background-position: 0px 120px;}
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
 
 [hidden] {
     display: none !important;
@@ -2733,7 +2733,7 @@ this the same font stack that Normalize.css sets for the `body`.
 
 .pure-u-1-2,
 .pure-u-12-24 {
-    width: 50%;
+    width: 100%;
     *width: 49.9690%;
 }
 
@@ -3738,7 +3738,7 @@ body {
       	text-decoration: none;
       	color:#ffffff;
       	display:block;
-      	width: 220px;
+      	width: 300px;
       	background:blue;
       	background: -webkit-linear-gradient(left, #C970E6, #3F95F2);
         background: -o-linear-gradient(right, #C970E6, #3F95F2);
@@ -3746,14 +3746,16 @@ body {
         background: linear-gradient(to right, #C970E6, #3F95F2); 
       	margin-left:auto;
       	margin-right: auto;
-      	height: 30px;
-      	line-height: 30px;
+      	height: 60px;
+      	line-height: 60px;
       	text-align: center;
       	border-radius: 10px;
       	transition: background 0.5s;
         -moz-transition: background 0.5s;
         -webkit-transition: background 0.5s; 
-        -o-transition: background 0.5s; 
+        -o-transition: background 0.5s;
+        font-size: 30px;
+
     }
      .go_btn a:hover,.go_btn a:focus,.go_btn a:active {
         background: linear-gradient(to right, #3F95F2, #C970E6); 
@@ -3778,13 +3780,13 @@ body {
 	text-decoration: none;
 	color: #6b6b6b;
 }
-.bott .bott-int{width: 1200px;height: 120px;background: #fafafa;border-top: 1px;margin-right: auto;margin-left: auto;}
+.bott .bott-int{width: 100%;height: 120px;background: #fafafa;border-top: 1px;margin-right: auto;margin-left: auto;}
 .bott .bott-int .zx-lft{float: left;width: 170px;height: 50px;margin-top: 40px;}
 .bott .bott-int .zx-lft img{width: 100%;height: 100%;}
-.bott .bott-int .zx-midd{width: 838px;height: 120px;float: left;}
+.bott .bott-int .zx-midd{width:100%;height: 120px;float: left;}
 .bott .bott-int .zx-midd ul{text-align: center;}
-.bott .bott-int .zx-midd ul li{float: none; display:inline-block; margin:0 auto; font-size:14px;line-height: 14px; margin:0 10px; color:#666666;margin-top: 53px;margin-bottom: 18px;}
-.bott .bott-int .zx-midd p{text-align: center; color:#A78686; font-size:14px;line-height: 14px;}
+.bott .bott-int .zx-midd ul li{float: none; display:inline-block; margin:0 auto; font-size:14px;line-height: 14px; margin:0 10px; color:#666666;margin-top: 80px;margin-bottom: 18px;}
+.bott .bott-int .zx-midd p{text-align: center; color:#A78686; font-size:30px;line-height:30px;margin-top: 50px;}
 
 
 .bott .bott-int .zx-rig{width: 180px;float: right;height: 120px;}
@@ -3803,19 +3805,19 @@ body {
 #header .header_top ul li.partner_title .icon_recommend{width: 47px; height: 48px;background:url(../foshan/recommend.png); margin:-6px 8px 0px 12px}
 #header .header_top ul.partner_desc li{float:none}
 #header .nav ul li{float:left; margin:20px 64px 0px 0px; }
-#header .nav ul li a{font-family:'Microsoft YaHei'; font-size:18px; color:#fff; text-decoration:none; cursor:pointer}
+#header .nav ul li a{font-family:'Microsoft YaHei'; font-size:36px; color:#fff; text-decoration:none; cursor:pointer}
 #header .nav ul li a:hover {color: #fe8431}
 
 
 
-.r_1 .wrapper{background:url() no-repeat;background-position:73px bottom; height: 648px; text-align:center}
+.r_1 .wrapper{background:url() no-repeat;background-position:73px bottom; height: 708px; text-align:center}
 .r_1_list{float:left; position:relative; left:50%;}
 .r_1_list li{float:left; margin-left:42px; position:relative; right:50%;}
 .r_1_list li.icon_next{margin-top:24px}
 .r_1_list li dl dd{font-size:12px; color:#b5b5b5; font-family:'Microsoft YaHei'; margin-top:24px}
 .r_1 h2{
 	font-size: 36px;
-	margin-top: 60px;
+	margin-top: 80px;
 	font-weight: normal;
 }
 
@@ -3847,16 +3849,16 @@ body {
 .step_line li.step{background:url(../foshan/spot.png) no-repeat; width:31px; height:31px;}
 .step_line li.line{background:url(../foshan/point_line.png) repeat-x left center; height:31px;}
 .step_line .setp_text{position:relative; top:50px; width:144px; left:-60px; text-align:center; font-size:14px; font-family:'Microsoft YaHei'}
-.step_line .setp_text p{margin-bottom:8px}
+.step_line .setp_text p{margin-bottom:8px;font-size: 30px;}
 
 
 .r_4{ text-align:center}
-.r_4 h2{ margin-top:120px; font-size:65px;font-weight: normal;}
-.r_4 dl.leftT{color:#fff; margin:104px 280px; text-align:right;float:right; width:340px;}
+.r_4 h2{ margin-top:120px; font-size:80px;font-weight: normal;}
+.r_4 dl.leftT{color:#fff; margin:44px 280px; float: left; width:340px;}
 
-.r_4 dl.rightT{color:#232323; margin:104px 280px; text-align:left;float:left; width:340px;}
-.r_4 dl dt{font-size:36px; font-family:'Microsoft YaHei'; font-weight:bold; margin-bottom:36px}
-.r_4 dl dd p{font-size:25px; margin-bottom:12px}
+.r_4 dl.rightT{color:#232323; margin:104px 280px;  width:340px;}
+.r_4 dl dt{font-size:70px; font-family:'Microsoft YaHei'; font-weight:bold; margin-bottom:50px}
+.r_4 dl dd p{font-size:50px; margin-bottom:25px}
 .r_4 table{width:100%; margin-top:52px}
 .r_4 table tr td, th{border:none;}
 .r_4 table tr{height:96px;}
@@ -3871,7 +3873,7 @@ body {
 .r_5{background: #1d65d4; color:#fff; text-align:center}
 
 .r_6{text-align:center}
-.r_6 h2{margin-top:100px; font-size:36px;font-weight: normal;}
+.r_6 h2{margin-top:100px; font-size:72px;font-weight: normal;}
 .r_6 table{width:100%; margin-top:40px;border-top:1px solid #dadada;border-left:1px solid #dadada; vertical-align:middle}
 .r_6 table th{background-color:#E4ECFA;font-size:18px;}
 .r_6 table td{text-align:center; color:#7b7b7b}
