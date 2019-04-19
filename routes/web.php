@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('foshan');
+    return view('foshans');
 });
 /*Route::get('/brand', function () {
     return view('brand');
