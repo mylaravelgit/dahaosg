@@ -160,6 +160,136 @@ body {
 .layout {
 	min-height: 100vh;
 }
+
+/*4步快速注册*/
+/*4步快速注册*/
+.g-title{
+	padding: 10px 0;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	color: #565656;
+	border-bottom: 1px solid #ebebf1;
+}
+.Quick-Register{
+	margin-top: 10px;
+	background: #fff;
+}
+.g-title p{
+	padding-top:10px;
+	font-size: 20px;
+	color: #848484;
+	font-weight: 300;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.g-title span{
+	color: #f15f17;
+}
+.Quick-content{
+	padding: 15px 0;
+}
+.Quick-content img{
+	width: 100%;
+}
+.bottom-text{
+	padding: 10px 0;
+	font-size: 15px;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	color: #848484;
+	text-align: center;
+	border-top: 1px solid #ebebf1;
+}
+.certificate{
+	margin-top: 10px;
+	background: #fff;
+}
+.certificate-content{
+	overflow: hidden;
+	padding: 10px;
+}
+.certificate-content-left,.certificate-content-right{
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+.certificate-content-right{
+	border: 5px solid #f3f3f3;
+}
+.certificate-content-left ul{
+	overflow: hidden;
+}
+.certificate-content-left ul li{
+	float: none;
+	margin-top: 20px;
+	font-size: 20px;
+	color: #666666;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.certificate-content-left ul li span{
+	display: inline-block;
+	background: #f15f17;
+	width: 8px;
+	height: 8px;
+	border-radius: 100%;
+	margin-right: 5px;
+}
+.certificate-content img{
+	width: 100%;
+	min-height: 165px;
+
+}
+/*为什么选择*/
+/*--------others---------*/
+.others_wrapper {
+	width: 100%;
+	overflow: hidden;
+	padding-top: 2rem;
+}
+
+.others_wrapper li {
+	width: 45%;
+	height: 2.6rem;
+	float: left;
+	font-size: 0.8rem;
+	line-height: 2.6rem;
+	text-align: center;
+	border-radius: 1.2rem;
+	margin-bottom: 1.8rem;
+	background: #c9c9c9;
+	color: #fff;
+	margin-left: 2%;
+	position: relative;
+}
+
+.others_wrapper li:nth-of-type(2n) {
+	background: #62abfd;
+	margin-left: 6%;
+}
+
+.others_wrapper li span {
+	display: block;
+	width: 2.6rem;
+	height: 2.6rem;
+	border: 1px solid #2D8DF9;
+	border-radius: 50%;
+	position: absolute;
+	background: #fff;
+	left: -1.4rem;
+	top: -1.4rem;
+	color: #2D8DF9;
+	font-weight: bold;
+}
+
+
 /*********header style************/
 .layout_header {
 	position: fixed;

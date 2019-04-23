@@ -19,6 +19,7 @@
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
 </head>
 <body onclick="openZoosUrl(&#39;chatwin&#39;);">
+
 <div class="layout">
     <header class="layout_header" id="layout_header">
         <div class="action_bar">
@@ -85,10 +86,88 @@
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
         </div>
-        <div class="row2">
-            <img src="./cwzj/row2_i1.png">
+        <!--4步快速注册-->
+        <div class="Quick-Register">
+            <div class="g-title">
+                <span>4步</span>快速注册，尽享大好时光
+                <p class="">【省力】摆脱繁复，让创业更简单</p>
+            </div>
+            <div class="Quick-content">
+                <img src="./cwzj/wap4-bg_03.jpg" alt="">
+            </div>
+            <div class="bottom-text">
+                您仅需提供 【3-5个公司名称】 【公司成员身份证】 【公司地址证明】
+            </div>
         </div>
-        {{--        <div class="row3">--}}
+        <!--4步快速注册-end-->
+
+        <!--你将领取以下证件-->
+        <div class="certificate">
+            <div class="g-title">
+                办理完成，你将领取<span>以下证件</span>
+                <p class="">大好时光全程加急</p>
+            </div>
+            <div class="certificate-content">
+                <div class="certificate-content-left">
+                    <ul>
+                        <li><span></span>营业执照正副本</li>
+                        <li><span></span>企业统一社会信用代码证明</li>
+                        <li><span></span>公司章程</li>
+                        <li><span></span>公司印鉴存留卡</li>
+                    </ul>
+                </div>
+                <div class="certificate-content-right">
+                    <img src="./cwzj/wap_81.jpg" alt="">
+                </div>
+            </div>
+        </div>
+{{--        选择理由--}}
+
+
+        <section id="others">
+            <div class="title">
+                <img src="./cwzj/title_06.png" width="100%" alt="">
+            </div>
+            <ul class="others_wrapper">
+                <li>
+                    不免费，表面免费附加消费一大堆
+                </li>
+                <li>
+                    费用透明，创业基金支持
+                    <span>费用</span>
+                </li>
+                <li>
+                    时间不太确定，变故多
+                </li>
+                <li>
+                    专属办理通道投递材料
+                    <span>效率</span>
+                </li>
+                <li>
+                    不专业  费时费力
+                </li>
+                <li>
+                    资深顾问 1对1服务
+                    <span>服务</span>
+                </li>
+                <li>
+                    小公司，没做过业务，不专业
+                </li>
+                <li>
+                    每天超过100家企业选择和创财税
+                    <span>业绩</span>
+                </li>
+                <li>
+                    每天超过100家企业选择和创财税
+                </li>
+                <li>
+                    系统管理，短息提醒，1000人团队
+                    <span>专业</span>
+                </li>
+            </ul>
+        </section>
+
+        <!--你将领取以下证件-end-->        {{--        <div class="row3">--}}
         {{--            <p class="title">--}}
         {{--                电话免费咨询<br>--}}
         {{--                佛山工商注册公司方案--}}
