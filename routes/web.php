@@ -12,6 +12,7 @@
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('welcome');
 });
 Route::get('/welcome', function () {
@@ -21,6 +22,10 @@ Route::get('/in', function () {
     return view('introduction');
 });
 
+=======
+    return view('foshans');
+});
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 /*Route::get('/brand', function () {
     return view('brand');
 });

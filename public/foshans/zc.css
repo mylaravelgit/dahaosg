@@ -533,7 +533,11 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
+<<<<<<< HEAD
 .top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 0px;}
+=======
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 
 [hidden] {
     display: none !important;
@@ -1949,7 +1953,11 @@ body {
 .r_8 ul li .icon_q{float:left; margin:0px 0px 0px 72px;background:url(../foshan/q_icon.png) no-repeat; width: 19px;height: 19px;}
 .r_8 ul li .icon_a{float:left; margin:0px 0px 0px 72px;background:url(../foshan/a_icon.png) no-repeat; width: 19px;height: 19px;}
 .r_8 ul li .q{float:left; margin:0px 0px 0px 10px;font-size:18px;}
+<<<<<<< HEAD
 .r_8 ul li .a{ margin:2px 0px 0px 10px; font-size:14px;}
+=======
+.r_8 ul li .a{float:left; margin:2px 0px 0px 10px; font-size:14px;}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 .r_8 ul li .datetime{float:right; margin:3px 24px 0px 0px; font-family:'Microsoft YaHei'; font-size:12px; color:#6f6f6f;}
 
 
@@ -2520,7 +2528,11 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
+<<<<<<< HEAD
 .top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 0px;}
+=======
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 
 [hidden] {
     display: none !important;
@@ -2584,7 +2596,10 @@ table {
 .opera-only :-o-prefocus,
 .pure-g {
     word-spacing: -0.43em;
+<<<<<<< HEAD
    
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 }
 
 .pure-u {
@@ -3685,7 +3700,11 @@ html, button, input, select, textarea,
 }
 
 h1 {
+<<<<<<< HEAD
 	margin-top: 80px;
+=======
+	margin-top: 130px;
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 	font-family: "Microsoft YaHei";
 	font-size: 44px;
 	font-weight: bold;
@@ -3734,9 +3753,14 @@ body {
     margin: 0px auto;
     width: 1200px;
     overflow: hidden;
+<<<<<<< HEAD
 }
 .wrapper ul li a {color: #FFFFFF;font-size: 20px;}
 
+=======
+
+}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
     .go_btn a{
       	text-decoration: none;
       	color:#ffffff;
@@ -3784,7 +3808,11 @@ body {
 .bott .bott-int{width: 1200px;height: 120px;background: #fafafa;border-top: 1px;margin-right: auto;margin-left: auto;}
 .bott .bott-int .zx-lft{float: left;width: 170px;height: 50px;margin-top: 40px;}
 .bott .bott-int .zx-lft img{width: 100%;height: 100%;}
+<<<<<<< HEAD
 .bott .bott-int .zx-midd{width: 1200px;height: 120px;float: left;}
+=======
+.bott .bott-int .zx-midd{width: 838px;height: 120px;float: left;}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 .bott .bott-int .zx-midd ul{text-align: center;}
 .bott .bott-int .zx-midd ul li{float: none; display:inline-block; margin:0 auto; font-size:14px;line-height: 14px; margin:0 10px; color:#666666;margin-top: 53px;margin-bottom: 18px;}
 .bott .bott-int .zx-midd p{text-align: center; color:#A78686; font-size:14px;line-height: 14px;}
@@ -3799,7 +3827,10 @@ body {
 #header {
 	color: #fe8431;
 	overflow: hidden;
+<<<<<<< HEAD
  border-bottom: 1px dotted #ffffff; padding:18px 0px 0px 0px
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 }
 #header .header_top{height: 119px;}
 #header .header_top ul li{float: left;}	
@@ -3933,6 +3964,7 @@ body {
 	font-weight: normal;
 }
 
+<<<<<<< HEAD
 .r_8 ul{margin-top:5px}
 .r_8 ul li{ text-align:left; clear:both; height:20px; padding:30px 0px 0px 0px}
 .r_8 ul li.b_line{ border-bottom:1px dotted #cfcfcf; padding:18px 0px 30px 0px}
@@ -3959,6 +3991,18 @@ body {
 
 
 /*end*/
+=======
+.r_8 ul{margin-top:46px}
+.r_8 ul li{ text-align:left; clear:both; height:20px; padding:30px 0px 0px 0px}
+.r_8 ul li.b_line{ border-bottom:1px dotted #cfcfcf; padding:18px 0px 30px 0px}
+.r_8 ul li .icon_q{float:left; margin:0px 0px 0px 72px;background:url(../foshan/q_icon.png) no-repeat; width: 19px;height: 19px;}
+.r_8 ul li .icon_a{float:left; margin:0px 0px 0px 72px;background:url(../foshan/a_icon.png) no-repeat; width: 19px;height: 19px;}
+.r_8 ul li .q{float:left; margin:0px 0px 0px 10px;font-size:18px;}
+.r_8 ul li .a{float:left; margin:2px 0px 0px 10px; font-size:14px;}
+.r_8 ul li .datetime{float:right; margin:3px 24px 0px 0px; font-family:'Microsoft YaHei'; font-size:12px; color:#6f6f6f;}
+
+
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 .r_9{width: 100%;height: 600px;
 	text-align: right;
 	background-image: url(../foshan/back2.jpg);

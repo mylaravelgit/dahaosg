@@ -2,13 +2,18 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
 
+<<<<<<< HEAD
     <title>免费代办佛山公司注册</title>
+=======
+    <title>大好时光（佛山市）企业管理有限公司,佛山公司注册,佛山代理注册公司</title>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
     <meta name="keywords" content="佛山公司注册,佛山注册公司,佛山工商注册">
     <meta name="description" content="佛山代理注册公司需要多少钱，如何注册佛山公司？0元代办佛山公司注册，免佛山工商注册代理费、佛山工商注册公司工本费，提供佛山公司注册地址，大好时光免费代办佛山注册公司。">
     <link rel="stylesheet" type="text/css" href="./foshans/zc.css">
     <script charset="utf-8" src="./foshan/v.js"></script>
     <link rel="stylesheet" type="text/css" href="./foshan/main.css">
     <link href="style/index.css" rel="stylesheet" type="text/css">
+<<<<<<< HEAD
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
     <script type="text/javascript">
         function init(){
@@ -68,6 +73,120 @@
 
 <!--中部-->
 <div class="pure-g" onclick="openZoosUrl(&#39;chatwin&#39;);">
+=======
+    <script>
+        function open_chat()
+        {
+            url="https://tb.53kf.com/code/client/0a732103a6ad102589db8e9cad704940/1";
+            var iLeft = (window.screen.availWidth - 10 - 750) / 2;
+            var iTop = (window.screen.availHeight - 30 - 600) / 2;
+            window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
+        }
+    </script>
+    <script>
+        (function() {
+            var _53code = document.createElement("script");
+            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(_53code, s);})();
+    </script>
+    </head>
+
+<body>
+<div style="position:fixed; width:128px; height:157px; display:block; right:0; bottom:0; z-index:999;"><img src="style/2vmm.jpg"></div>
+<!--top-->
+<div class="main">
+    <div class="top_box">
+        <div class="top">
+            <p>欢迎访问大好时光（佛山）企业管理有限公司官网！</p>
+{{--            <a href="javascript:void(0);" onclick="open_chat()">--}}
+{{--                <ul>--}}
+{{--                    <li class="li02">联系我们</li>--}}
+{{--                    <li class="li02">收藏本站</li>--}}
+{{--                    <li class="li02">在线留言</li>--}}
+{{--                    <li class="li01">网站地图</li>--}}
+{{--                    <div class="clear"></div>--}}
+{{--                </ul>--}}
+{{--            </a>--}}
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<!--logo-->
+<div class="main">
+    <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<!--nav-->
+<div class="main">
+    <div class="nav_box">
+        <ul class="nav">
+            <a href="javascript:void(0);" onclick="open_chat()">
+                <li>网站首页</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li>公司注册</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li>公司变更</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li>商标注册</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li>代理记账</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li>经营许可证</li>
+            </a> <a href="javascript:void(0);" onclick="open_chat()">
+                <li style="border-right: none;">联系我们</li>
+            </a>
+            <div class="clear"></div>
+        </ul>
+    </div>
+</div>
+
+<!--banner-->
+<div class="fullSlide">
+    <div class="bd">
+        <ul style="position: relative; width: 1349px; height: 580px;">
+            <li style="background: url('style/banner.png') center 0px no-repeat rgb(222, 213, 161); position: absolute; width: 1349px; left: 0px; top: 0px;"><a href="javascript:void(0);" onclick="open_chat()"></a></li>
+        </ul>
+    </div>
+    <!--	<div class="hd"><ul></ul></div>
+      <span class="prev"></span>
+      <span class="next"></span>-->
+    <!--banner_left-->
+    <div class="banner_left_box">
+        <p class="banner_left_title">常见问题快速咨询</p>
+        <a href="javascript:void(0);" onclick="open_chat()">
+            <div class="pro_01">
+                <p>注册公司流程</p>
+                <div style="width: 50%;">注册公司需要哪些流程？</div>
+                <div style="width: 50%;">多久可以拿到营业执照?</div>
+                <div>是否需要股东到场办理?</div>
+                <div class="clear"></div>
+            </div>
+        </a>
+        <div class="clear"></div>
+        <a href="javascript:void(0);" onclick="open_chat()">
+            <div class="pro_03">
+                <p>注册公司资料</p>
+                <div>注册公司需要提供哪些证件？</div>
+                <div>注册地址没有租赁合同怎么办？</div>
+                <div>经营范围怎么选择？</div>
+            </div>
+        </a> <a href="javascript:void(0);" onclick="open_chat()">
+            <div class="pro_02">
+                <p>注册公司费用</p>
+                <div>内资公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
+                <div>外资公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
+                <div>集团公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
+                <div>分公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
+                <div>个体户 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
+                <div class="clear"></div>
+            </div>
+        </a> </div>
+</div>
+<div class="pure-g">
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
     <div class="pure-u-1 r_1">
         <div class="wrapper">
             <h2>佛山公司注册仅需三大步骤</h2>
@@ -226,6 +345,7 @@
                 </dl>
             </div>
         </div>
+<<<<<<< HEAD
         <table>
             <tbody><tr>
                 <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
@@ -248,6 +368,30 @@
                 <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>
             </tr>
             </tbody></table>
+=======
+{{--        <table>--}}
+{{--            <tbody><tr>--}}
+{{--                <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
+{{--                <td valign="middle" class="td2"><div class="c_m">省钱</div></td>--}}
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理也需要交付政府规定费用，还需要交通费及时间</td>--}}
+{{--            </tr>--}}
+{{--            <tr>--}}
+{{--                <td valign="middle" class="td1">全程佛山代办公司注册，可提供佛山公司注册地址 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
+{{--                <td valign="middle" class="td2"><div class="c_m">省心</div></td>--}}
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">需要找佛山公司注册地址，再跑佛山工商注册流程</td>--}}
+{{--            </tr>--}}
+{{--            <tr>--}}
+{{--                <td valign="middle" class="td1"> 精通佛山工商注册公司流程，最快只需3天 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
+{{--                <td valign="middle" class="td2"><div class="c_m">省时</div></td>--}}
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理不熟悉佛山工商注册流程，可能需要1个月时间</td>--}}
+{{--            </tr>--}}
+{{--            <tr>--}}
+{{--                <td valign="middle" class="td1">佛山注册公司是复杂的过程，专业运营团队，简单快速 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
+{{--                <td valign="middle" class="td2"><div class="c_m">省事</div></td>--}}
+{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>--}}
+{{--            </tr>--}}
+{{--            </tbody></table>--}}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
     </div>
     <div class="pure-u-1 r_5" style="padding:96px 0px">
         <p><img src="./foshan/call_phone.png" width="366" height="65" alt="" style="margin: 0 auto;"></p>
@@ -269,7 +413,11 @@
                 <tr>
                     <th width="120">项目</th>
                     <th width="274">名称</th>
+<<<<<<< HEAD
                     <th width="400">大好时光</th>
+=======
+                    <th width="400">大好时光（佛山市）企业管理有限公司</th>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
                     <th width="400">其他佛山代理注册公司</th>
                 </tr>
                 <tr>
@@ -346,6 +494,7 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
 {{--    start--}}
 
     <div class="ter-box">
@@ -511,6 +660,62 @@
             <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
             <p>  <a href="/in">关于我们</a></p>
 
+=======
+    <div class="pure-u-1 r_8">
+        <div class="wrapper">
+            <h2>常见问题</h2>
+            <ul>
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>佛山注册公司需要准备哪些资料？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">佛山公司注册地址租赁合同；佛山注册公司名称；公司股东信息；股东投资比例；佛山公司注册资金；公司经营范围。</div>
+                </li>
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>佛山公司注册下来有哪些资料？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">营业执照（正、副本）；公司章程；公司印章及印鉴留存卡</div>
+                </li>
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>佛山工商注册登记改革利好政策有哪些？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">佛山市工商局简化佛山公司注册登记流程；佛山公司注册资金实行认缴制。 </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+   
+</div>
+
+<div class="bott">
+    <div class="bott-int wid">
+        <div class="zx-lft">
+            <img src="./foshan/logo2.png">
+        </div>
+        <div class="zx-midd">
+                        <ul>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >公司介绍</a></li>
+                            <li>丨</li>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >管理特色</a></li>
+                            <li>丨</li>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务承诺</a></li>
+                            <li>丨</li>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >文化坚持</a></li>
+                            <li>丨</li>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务城市</a></li>
+                            <li>丨</li>
+                            <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>
+                        </ul>
+            <p>Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
         </div>
 {{--        <div class="zx-rig">--}}
 {{--            <p>400-850-0074</p>--}}
@@ -520,6 +725,7 @@
 </div>
 
 
+<<<<<<< HEAD
 {{--<script language="javascript" src="./cwzj/LsJS.aspx"></script><link href="./cwzj/JS5.css" rel="stylesheet" type="text/css"><div id="LRdiv0" style="display: block;"><div id="LRfloater0" style="z-index: 2147483647; right: 0px; top: 150px; position: fixed !important;"><div id="swtColse" style="width:20px; height:15px; top:0px; right:0px; position:absolute;background-image: url(./cwzj/7.gif);background-repeat: no-repeat;background-position: right top;cursor:pointer;" onclick="LR_Hidemobileinvite(0);onlinerIcon0.hidden();"></div><img title="如果您有什么问题,请点击此处进行即时沟通;" alt="如果您有什么问题,请点击此处进行即时沟通;" src="./cwzj/online_cn.png" style="cursor:pointer" onclick="openZoosUrl(&#39;chatwin&#39;);"></div></div><div id="LRdiv1" style="display:none;"></div>--}}
 <style>
     @-webkit-keyframes moveToBottom {
@@ -546,4 +752,7 @@
 </style>
 
 {{--<script language="javascript" src="./cwzj/LsJS.aspx"></script>--}}
+=======
+
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 </body></html>

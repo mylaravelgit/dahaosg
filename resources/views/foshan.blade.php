@@ -50,11 +50,16 @@
         <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
     </p>
     <p></p>
+<<<<<<< HEAD
 {{--    <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>--}}
 </div>
 
 
 <!--中部 -->
+=======
+    <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>
+</div>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 <div class="pure-g">
     <div class="pure-u-1 r_1">
         <div class="wrapper">

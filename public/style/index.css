@@ -9,7 +9,11 @@ body{ margin:0px; padding:0px;}
 input {outline:none;}
 a img{ border:0px;}
 a{ text-decoration:none; list-style:none;}
+<<<<<<< HEAD
 /*img{ display:block;}*/
+=======
+img{ display:block;}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 ul li{ text-decoration:none; list-style:none;}
 input button{ border:none; outline:none;}
 .clear{ clear:both;}
@@ -18,6 +22,7 @@ input button{ border:none; outline:none;}
 
 
 /*top*/
+<<<<<<< HEAD
 /*.top_box{*/
 /*	margin:auto; width:auto; height:auto;*/
 /*	border-bottom: 1px solid #ededed;*/
@@ -59,6 +64,49 @@ input button{ border:none; outline:none;}
 /*	font-size: 12px;*/
 /*	margin-left: 9px;*/
 /*}*/
+=======
+.top_box{
+	margin:auto; width:auto; height:auto;
+	border-bottom: 1px solid #ededed;
+}
+.top{
+	width: 1200px;
+	margin: 0 auto;
+	height: 50px;
+	line-height: 50px;
+	
+}
+.top p{
+	float: left;
+	width: 350px;
+	color: #666666;
+	font-size: 14px;
+	margin-left: 112px;
+}
+.top ul{
+	float: left;
+	width: 271px;
+	margin-left: 346px;
+	height: 12px;
+	line-height: 12px;
+	margin-top: 19px;
+}
+.li02{
+	float: left;
+	width: 58px;
+	border-right: 1px solid #8f8f8f;
+	color: #666666;
+	font-size: 12px;
+	margin-left: 9px;
+}
+.li01{
+	float: left;
+	width: 58px;
+	color: #666666;
+	font-size: 12px;
+	margin-left: 9px;
+}
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 
 
 /*logo*/
@@ -180,11 +228,20 @@ input button{ border:none; outline:none;}
 
 /**/
 .banner_left_box{
+<<<<<<< HEAD
 	width: 100%;
 	height: 668px;
 	position: absolute;
 	top: -10px;
 	background-position: 0px 120px;
+=======
+	width: 366px;
+	height: 445px;
+	background-color: #101010;
+	position: absolute;
+	top: 70px;
+	left: 63%;
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 }
 .banner_left_title {
 	color: #d4ac78;
@@ -192,7 +249,10 @@ input button{ border:none; outline:none;}
 	font-size: 20px;
 	margin-left: 20px;
 	margin-bottom:10px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 }
 .pro_01{
 	border-bottom: 1px dashed #313131;
@@ -278,6 +338,7 @@ input button{ border:none; outline:none;}
 	cursor: pointer;
 }
 
+<<<<<<< HEAD
 
 /*办理完成 即可领取以下证件*/
 .ter-box{
@@ -1760,3 +1821,5 @@ ul.lence-list.w1180 {}
 	position: relative;
 }
 /*2017 1222 xl luotian update end */
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264

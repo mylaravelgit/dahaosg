@@ -163,7 +163,10 @@ img{
 	padding: 0 5px;
 	display: block;
 	border-bottom: 2px solid transparent;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 }
 .nav>ul>li.cur a{
 	color: #fd3d2a;
