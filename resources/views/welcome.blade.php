@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <!-- saved from url=(0022)http://wap.bh0531.com/ -->
 <html>
@@ -6,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <title>大好时光</title>
-    <meta name="keywords" content="大好时光-开公司|公司注册|注册公司|代理记账">
+    <meta name="keywords" content="大好时光-开公司|公司注册|注册公司">
     <meta name="description" content="大好时光-开公司|公司注册|注册公司">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <meta http-equiv="Cache-Control" content="no-cache">
@@ -89,32 +88,32 @@
         <div class="row2">
             <img src="./cwzj/row2_i1.png">
         </div>
-{{--        <div class="row3">--}}
-{{--            <p class="title">--}}
-{{--                电话免费咨询<br>--}}
-{{--                佛山工商注册公司方案--}}
-{{--            </p>--}}
-{{--            <div class="con fn-clear">--}}
-{{--                <div class="row_to fn-clear">--}}
-{{--                    <div>--}}
-{{--                        <div class="step">1</div>--}}
-{{--                        办理时间长--}}
-{{--                    </div>--}}
-{{--                    <div>--}}
-{{--                        <div class="step">2</div>--}}
-{{--                        多跑冤枉路--}}
-{{--                    </div>--}}
-{{--                    <div>--}}
-{{--                        <div class="step">3</div>--}}
-{{--                        注册效率低--}}
-{{--                    </div>--}}
-{{--                    <div>--}}
-{{--                        <div class="step">4</div>--}}
-{{--                        多花冤枉钱--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
+        {{--        <div class="row3">--}}
+        {{--            <p class="title">--}}
+        {{--                电话免费咨询<br>--}}
+        {{--                佛山工商注册公司方案--}}
+        {{--            </p>--}}
+        {{--            <div class="con fn-clear">--}}
+        {{--                <div class="row_to fn-clear">--}}
+        {{--                    <div>--}}
+        {{--                        <div class="step">1</div>--}}
+        {{--                        办理时间长--}}
+        {{--                    </div>--}}
+        {{--                    <div>--}}
+        {{--                        <div class="step">2</div>--}}
+        {{--                        多跑冤枉路--}}
+        {{--                    </div>--}}
+        {{--                    <div>--}}
+        {{--                        <div class="step">3</div>--}}
+        {{--                        注册效率低--}}
+        {{--                    </div>--}}
+        {{--                    <div>--}}
+        {{--                        <div class="step">4</div>--}}
+        {{--                        多花冤枉钱--}}
+        {{--                    </div>--}}
+        {{--                </div>--}}
+        {{--            </div>--}}
+        {{--        </div>--}}
         <div class="row4">
             <p class="title">
                 五大优势 金牌保障
@@ -128,50 +127,50 @@
             </p>
         </div>
 
-{{--        <div class="row6">--}}
-{{--            <p class="title">--}}
-{{--                每<span class="b_c">1小时</span>就有一家公司<br>--}}
-{{--                在大好时光选择一站式注册服务--}}
-{{--            </p>--}}
-{{--            <img src="./cwzj/row6_i1.png">--}}
-{{--            <div class="con">--}}
-{{--                <div class="con_c">--}}
-{{--                    为您提供高性价比<br>--}}
-{{--                    一站式注册服务--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--        <div class="row7">--}}
-{{--            <p class="title">--}}
-{{--                大好时光公司注册流程--}}
-{{--            </p>--}}
-{{--            <p class="sub_title">--}}
-{{--                一站式服务 意在满足您的各项需求--}}
-{{--            </p>--}}
-{{--            <ul>--}}
-{{--                <div class="step">--}}
-{{--                    <div class="main">--}}
-{{--                        <img src="./cwzj/row7_i1.png">--}}
-{{--                    </div>--}}
-{{--                    <div class="con">--}}
-{{--                        <span></span>--}}
-{{--                        <span></span>--}}
-{{--                        <span></span>--}}
-{{--                        <span></span>--}}
-{{--                        <span></span>--}}
-{{--                        <span></span>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <li>确认合作</li>--}}
-{{--                <li>核名通知书</li>--}}
-{{--                <li>工商注册</li>--}}
-{{--                <li>刻章</li>--}}
-{{--                <li>国、地税报到</li>--}}
-{{--                <li>次月开始代账</li>--}}
-{{--                <div class="fn-clear"></div>--}}
-{{--            </ul>--}}
-{{--            <div class="fn-clear"></div>--}}
-{{--        </div>--}}
+        {{--        <div class="row6">--}}
+        {{--            <p class="title">--}}
+        {{--                每<span class="b_c">1小时</span>就有一家公司<br>--}}
+        {{--                在大好时光选择一站式注册服务--}}
+        {{--            </p>--}}
+        {{--            <img src="./cwzj/row6_i1.png">--}}
+        {{--            <div class="con">--}}
+        {{--                <div class="con_c">--}}
+        {{--                    为您提供高性价比<br>--}}
+        {{--                    一站式注册服务--}}
+        {{--                </div>--}}
+        {{--            </div>--}}
+        {{--        </div>--}}
+        {{--        <div class="row7">--}}
+        {{--            <p class="title">--}}
+        {{--                大好时光公司注册流程--}}
+        {{--            </p>--}}
+        {{--            <p class="sub_title">--}}
+        {{--                一站式服务 意在满足您的各项需求--}}
+        {{--            </p>--}}
+        {{--            <ul>--}}
+        {{--                <div class="step">--}}
+        {{--                    <div class="main">--}}
+        {{--                        <img src="./cwzj/row7_i1.png">--}}
+        {{--                    </div>--}}
+        {{--                    <div class="con">--}}
+        {{--                        <span></span>--}}
+        {{--                        <span></span>--}}
+        {{--                        <span></span>--}}
+        {{--                        <span></span>--}}
+        {{--                        <span></span>--}}
+        {{--                        <span></span>--}}
+        {{--                    </div>--}}
+        {{--                </div>--}}
+        {{--                <li>确认合作</li>--}}
+        {{--                <li>核名通知书</li>--}}
+        {{--                <li>工商注册</li>--}}
+        {{--                <li>刻章</li>--}}
+        {{--                <li>国、地税报到</li>--}}
+        {{--                <li>次月开始代账</li>--}}
+        {{--                <div class="fn-clear"></div>--}}
+        {{--            </ul>--}}
+        {{--            <div class="fn-clear"></div>--}}
+        {{--        </div>--}}
         <div class="row8">
             <p class="title">
                 您可能还需要的服务
@@ -238,104 +237,3 @@
 
 </body>
 </html>
-=======
-<!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>Laravel</title>
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
-            }
-
-            .full-height {
-                height: 100vh;
-            }
-
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
-
-            .position-ref {
-                position: relative;
-            }
-
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-
-            .content {
-                text-align: center;
-            }
-
-            .title {
-                font-size: 84px;
-            }
-
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
-
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
-
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
-            </div>
-        </div>
-    </body>
-</html>
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
