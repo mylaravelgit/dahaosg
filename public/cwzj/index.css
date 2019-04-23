@@ -240,8 +240,8 @@ body {
 	overflow: hidden;
 	z-index: 1;
 }
-.layout .layout_body .banner img {
-
+.layout .layout_body .banner h1 {
+	text-align: center;
 }
 .layout .row1 .con{
      width: 100%;

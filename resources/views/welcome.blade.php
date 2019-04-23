@@ -40,10 +40,10 @@
     </header>
     <div class="layout_body">
         <div class="banner"  style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
-            <h1 style="font-size: 35px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
-            <p style="margin-top:10px; font-size:30px; text-align:center">省心/省钱的全程服务</p>
-            <h1 style="font-size: 35px;margin-top: 10px;color: #f57a17">提供佛山公司注册地址</h1>
-            <p style="margin-top:10px; font-size:30px; text-align:center">免费代办公司注册</p>
+            <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
+            <p style="margin-top:10px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
+            <h1 style="font-size: 30px;margin-top: 10px;color: #f57a17">提供佛山公司注册地址</h1>
+            <p style="margin-top:10px; font-size:25px; text-align:center">免费代办公司注册</p>
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
