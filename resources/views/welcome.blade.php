@@ -16,12 +16,12 @@
     <meta name="apple-mobile-web-app-title" content="大好时光">
     <meta name="format-detection" content="telephone=no">
     <link rel="stylesheet" href="./cwzj/index.css">
-{{--    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>--}}
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
 </head>
-<body oncli>
-{{--ck="openZoosUrl(&#39;chatwin&#39;);"--}}
+<body >
+{{----}}
 <div class="layout">
-    <header class="layout_header" id="layout_header">
+    <header class="layout_header" id="layout_header" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <div class="action_bar">
             <a class="list" id="toggle-btn" href="javascript:;">
             </a>
@@ -39,7 +39,7 @@
             </li>
         </ul>
     </header>
-    <div class="layout_body">
+    <div class="layout_body" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <div class="banner" style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
             <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
             <p style="margin-top:20px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
@@ -190,7 +190,7 @@
     </div>
 
     <!-- partner start -->
-    <div class="partner">
+    <div class="partner" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <p class="partner-title">合作伙伴</p>
         <ul class="partner-top">
             <li><img src="./cwzj/partner1.png"></li>
@@ -211,25 +211,9 @@
 
     <footer class="footers">
         <div id="footTel"><a href="tel:400-850-0074" class="tel"><img src="./cwzj/tel_icon.png">400-850-0074</a></div>
-        <div class="consult-online zhiCustomBtn"><a onclick="openZoosUrl(&#39;chatwin&#39;);">在线咨询</a></div>
+        <div class="consult-online zhiCustomBtn" onclick="openZoosUrl(&#39;chatwin&#39;);"><a >在线咨询</a></div>
         <a class="free-call" href="tel:400-850-0074">免费通话</a>
-        <form id="sidebarForm" class="floating3_left_wrap" autocomplete="off">
-            <img src="./cwzj/phone_icon.png" alt="电话图标" class="floating3_left_phone">
-            <p class="floating3_left_p1">免费通话</p>
-            <p class="floating3_left_p2">24小时在线咨询。</p>
-            <p class="floating3_left_p3">请输入您的联系电话，座机请加区号。</p>
-            <input type="text" name="tel" id="sidebarTel" placeholder="请输入您的联系电话">
-            <input type="text" hidden="hidden" value="" name="">
-            <input type="text" name="consult" hidden="hidden" value="空">
-            <input type="text" name="formSite" hidden="hidden" value="wap底部免费通话">
-            <div class="call">免费通话</div>
-            <div id="close-icon-wrap">
-                <div id="close-icon">
-                    <div class="close-line close-line1"></div>
-                    <div class="close-line close-line2"></div>
-                </div>
-            </div>
-        </form>
+
     </footer>
 </div>
 <script type="text/javascript" src="./cwzj/jquery-2.1.1.min.js"></script>
