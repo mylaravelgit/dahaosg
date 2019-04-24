@@ -204,15 +204,37 @@
         </ul>
     </div>
     <!-- parter end -->
-    <footer class="footer">
-        <div class="footer_tel">
-            <img src="./cwzj/footer_tel.png">
-        </div>
-        <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">
-            <p><a href="/"> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
-            <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a>
+{{--    <footer class="footer">--}}
+{{--        <div class="footer_tel">--}}
+{{--            <img src="./cwzj/footer_tel.png">--}}
+{{--        </div>--}}
+{{--        <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">--}}
+{{--            <p><a href="/"> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>--}}
+{{--            <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a>--}}
 
-        </div>
+{{--        </div>--}}
+{{--    </footer>--}}
+    <footer class="footers">
+        <div id="footTel"><a href="tel:400-850-0074" class="tel"><img src="./cwzj/tel_icon.png">400-850-0074</a></div>
+        <div class="consult-online zhiCustomBtn">在线咨询</div>
+        <a class="free-call" href="tel:400-850-0074">免费通话</a>
+        <form id="sidebarForm" class="floating3_left_wrap" autocomplete="off">
+            <img src="./cwzj/phone_icon.png" alt="电话图标" class="floating3_left_phone">
+            <p class="floating3_left_p1">免费通话</p>
+            <p class="floating3_left_p2">24小时在线咨询。</p>
+            <p class="floating3_left_p3">请输入您的联系电话，座机请加区号。</p>
+            <input type="text" name="tel" id="sidebarTel" placeholder="请输入您的联系电话">
+            <input type="text" hidden="hidden" value="" name="">
+            <input type="text" name="consult" hidden="hidden" value="空">
+            <input type="text" name="formSite" hidden="hidden" value="wap底部免费通话">
+            <div class="call">免费通话</div>
+            <div id="close-icon-wrap">
+                <div id="close-icon">
+                    <div class="close-line close-line1"></div>
+                    <div class="close-line close-line2"></div>
+                </div>
+            </div>
+        </form>
     </footer>
 </div>
 <script type="text/javascript" src="./cwzj/jquery-2.1.1.min.js"></script>
