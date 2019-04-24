@@ -203,20 +203,15 @@
             <li><img src="./cwzj/partner6.png"></li>
         </ul>
     </div>
-    <!-- parter end -->
-{{--    <footer class="footer">--}}
-{{--        <div class="footer_tel">--}}
-{{--            <img src="./cwzj/footer_tel.png">--}}
-{{--        </div>--}}
-{{--        <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">--}}
-{{--            <p><a href="/"> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>--}}
-{{--            <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a>--}}
 
-{{--        </div>--}}
-{{--    </footer>--}}
+    <div class="pattern">
+        <p class="copyright">大好时光（佛山市）企业管理有限公司&nbsp;<br><a href="http://www.beian.miit.gov.cn" >粤ICP备18159108号</a></p>
+
+    </div>
+
     <footer class="footers">
         <div id="footTel"><a href="tel:400-850-0074" class="tel"><img src="./cwzj/tel_icon.png">400-850-0074</a></div>
-        <div class="consult-online zhiCustomBtn">在线咨询</div>
+        <div class="consult-online zhiCustomBtn"><a onclick="openZoosUrl(&#39;chatwin&#39;);">在线咨询</a></div>
         <a class="free-call" href="tel:400-850-0074">免费通话</a>
         <form id="sidebarForm" class="floating3_left_wrap" autocomplete="off">
             <img src="./cwzj/phone_icon.png" alt="电话图标" class="floating3_left_phone">
