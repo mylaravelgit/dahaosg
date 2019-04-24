@@ -144,7 +144,7 @@ body {
     background: -o-linear-gradient(right, #C970E6, #3F95F2);
     background: -moz-linear-gradient(right, #C970E6, #3F95F2));
     background: linear-gradient(to right, #C970E6, #3F95F2);
-    margin: 30px auto 10px auto;
+	margin: 0px auto 10px auto;
     height: 30px;
     line-height: 30px;
     text-align: center;
@@ -166,7 +166,7 @@ body {
 .g-title{
 	padding: 10px 0;
 	text-align: center;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: bold;
 	color: #565656;
 	border-bottom: 1px solid #ebebf1;
@@ -174,6 +174,8 @@ body {
 .Quick-Register{
 	margin-top: 10px;
 	background: #fff;
+	border-bottom: 1px dotted #0c0c0c;
+	padding: 18px 0px 18px 0px;
 }
 .g-title p{
 	padding-top:10px;
@@ -379,7 +381,7 @@ body {
 }
 .layout .row1{
 	border-bottom: 1px dotted #0c0c0c;
-	padding: 18px 0px 18px 0px;
+	padding: 18px 0px 0px 0px;
 }
 .layout .row1 .con{
      width: 100%;
@@ -670,6 +672,49 @@ body {
 	background: url(../cwzj/row10_i4.png) center 1.75rem no-repeat;
 	background-size: auto 2.5rem;
 }
+
+/*===partner start===*/
+.partner {
+	width: 100%;
+	height: 150px;
+	background-color: #fff;
+	margin-top: 0.26666667rem;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/* font: inherit; */
+	vertical-align: baseline;
+}
+
+.partner .partner-title {
+	font-size: 20px;
+	color: #333;
+	text-align: center;
+	padding-top: 0.8rem;
+}
+
+.partner ul {
+	width: 100%;
+	height: 10%;
+}
+
+.partner .partner-top {
+	padding-top: 0.61333333rem;
+	margin-bottom: 0.4rem;
+}
+
+.partner ul li {
+	float: left;
+	margin-left: 0.4rem;
+}
+
+.partner ul li img {
+	width: 100px;
+	height: 50px;
+}
+
+/*===partner end===*/
+
 
 .footer {
 	background: #3A3A3A;

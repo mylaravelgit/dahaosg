@@ -40,15 +40,16 @@
         </ul>
     </header>
     <div class="layout_body">
-        <div class="banner"  style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
+        <div class="banner" style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
             <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
-            <p style="margin-top:10px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
-            <h1 style="font-size: 30px;margin-top: 10px;color: #f57a17">提供佛山公司注册地址</h1>
-            <p style="margin-top:10px; font-size:25px; text-align:center">免费代办公司注册</p>
-            <p style="margin-top:20px; font-size:30px; text-align:center">400-850-0074</p>
+            <p style="margin-top:20px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
+            <h1 style="font-size: 30px;margin-top: 30px;color: #f57a17">提供佛山公司注册地址</h1>
+            <p style="margin-top:30px; font-size:20px; text-align:center">免费代办公司注册</p>
+            <p style="margin-top:25px; font-size:17px; text-align:center">400-850-0074</p>
             <p class="go_btn">
-                <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
+                <a href="javascript:void(0);" onclick="openZoosUrl('chatwin');" style="">点我立即咨询</a>
             </p>
+
         </div>
         <div class="row1">
             <p class="title">
@@ -83,17 +84,18 @@
             </p>
             <p  class="sub_title" style="color:#8e8e8e; text-decoration:line-through; font-size:14px; margin-top:14px">找其他佛山代办注册公司：￥500-1500元</p>
             <div class="fn-clear"></div>
-            <p style="margin-top:20px; font-size:25px; text-align:center">400-850-0074</p>
+            <p style="margin-top:20px; font-size:20px; text-align:center">400-850-0074</p>
 
-            <p class="go_btn">
+            <p class="go_btn" style="padding-top: 15px;margin-bottom: -50px">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
+            <div style="background:url(./foshan/arrow.png) no-repeat; width:74px; height:57px; position:relative; top:-10px; left:200px;"></div>
         </div>
         <!--4步快速注册-->
         <div class="Quick-Register">
             <div class="g-title">
-                <span>4步</span>快速注册，尽享大好时光
-                <p style="margin-top:10px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
+                <span>4步</span>快速注册，1-2天拿证
+                <p style="margin-top:10px; font-size:20px; text-align:center">省心/省钱的全程服务</p>
 
             </div>
             <div class="Quick-content">
@@ -108,8 +110,8 @@
         <!--你将领取以下证件-->
         <div class="certificate">
             <div class="g-title">
-                办理完成，你将领取<span>以下证件</span>
-                <p class="">大好时光全程加急</p>
+                全程办理完成，你将领取<span>以下证件</span>
+                <p class=""><img src="./cwzj/dhsg.png" style="height:33px;width=120px;">全程加急</p>
             </div>
             <div class="certificate-content">
                 <div class="certificate-content-left">
@@ -171,32 +173,7 @@
             </ul>
         </section>
 
-        <!--你将领取以下证件-end-->        {{--        <div class="row3">--}}
-        {{--            <p class="title">--}}
-        {{--                电话免费咨询<br>--}}
-        {{--                佛山工商注册公司方案--}}
-        {{--            </p>--}}
-        {{--            <div class="con fn-clear">--}}
-        {{--                <div class="row_to fn-clear">--}}
-        {{--                    <div>--}}
-        {{--                        <div class="step">1</div>--}}
-        {{--                        办理时间长--}}
-        {{--                    </div>--}}
-        {{--                    <div>--}}
-        {{--                        <div class="step">2</div>--}}
-        {{--                        多跑冤枉路--}}
-        {{--                    </div>--}}
-        {{--                    <div>--}}
-        {{--                        <div class="step">3</div>--}}
-        {{--                        注册效率低--}}
-        {{--                    </div>--}}
-        {{--                    <div>--}}
-        {{--                        <div class="step">4</div>--}}
-        {{--                        多花冤枉钱--}}
-        {{--                    </div>--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--        </div>--}}
+
         <div class="row4">
             <p class="title">
                 五大优势 金牌保障
@@ -205,97 +182,28 @@
                 实力说明一切
             </p>
             <img src="./cwzj/row4_i1.png">
-            <p style="margin-top:20px; font-size:25px; text-align:center">400-850-0074</p>
+            <p style="margin-top:20px; font-size:20px; text-align:center">400-850-0074</p>
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
         </div>
-
-        {{--        <div class="row6">--}}
-        {{--            <p class="title">--}}
-        {{--                每<span class="b_c">1小时</span>就有一家公司<br>--}}
-        {{--                在大好时光选择一站式注册服务--}}
-        {{--            </p>--}}
-        {{--            <img src="./cwzj/row6_i1.png">--}}
-        {{--            <div class="con">--}}
-        {{--                <div class="con_c">--}}
-        {{--                    为您提供高性价比<br>--}}
-        {{--                    一站式注册服务--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--        </div>--}}
-        {{--        <div class="row7">--}}
-        {{--            <p class="title">--}}
-        {{--                大好时光公司注册流程--}}
-        {{--            </p>--}}
-        {{--            <p class="sub_title">--}}
-        {{--                一站式服务 意在满足您的各项需求--}}
-        {{--            </p>--}}
-        {{--            <ul>--}}
-        {{--                <div class="step">--}}
-        {{--                    <div class="main">--}}
-        {{--                        <img src="./cwzj/row7_i1.png">--}}
-        {{--                    </div>--}}
-        {{--                    <div class="con">--}}
-        {{--                        <span></span>--}}
-        {{--                        <span></span>--}}
-        {{--                        <span></span>--}}
-        {{--                        <span></span>--}}
-        {{--                        <span></span>--}}
-        {{--                        <span></span>--}}
-        {{--                    </div>--}}
-        {{--                </div>--}}
-        {{--                <li>确认合作</li>--}}
-        {{--                <li>核名通知书</li>--}}
-        {{--                <li>工商注册</li>--}}
-        {{--                <li>刻章</li>--}}
-        {{--                <li>国、地税报到</li>--}}
-        {{--                <li>次月开始代账</li>--}}
-        {{--                <div class="fn-clear"></div>--}}
-        {{--            </ul>--}}
-        {{--            <div class="fn-clear"></div>--}}
-        {{--        </div>--}}
-        <div class="row8">
-            <p class="title">
-                您可能还需要的服务
-            </p>
-            <p class="sub_title">
-                一站式服务 意在满足您的各项需求
-            </p>
-            <div class="con fn-clear">
-                <div>
-                    <p>
-                        <img src="./cwzj/row8_i1.png">
-                    </p>
-                    企业代理记账
-                </div>
-                <div>
-                    <p>
-                        <img src="./cwzj/row8_i2.png">
-                    </p>
-                    商标注册服务
-                </div>
-                <div>
-                    <p>
-                        <img src="./cwzj/row8_i3.png">
-                    </p>
-                    申请一般纳税人
-                </div>
-                <div>
-                    <p>
-                        <img src="./cwzj/row8_i4.png">
-                    </p>
-                    汇算清缴报告
-                </div>
-            </div>
-            <p style="margin-top:30px; font-size:25px; text-align:center">400-850-0074</p>
-            <p class="go_btn">
-                <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
-            </p>
-        </div>
-
-
     </div>
+
+    <!-- partner start -->
+    <div class="partner">
+        <p class="partner-title">合作伙伴</p>
+        <ul class="partner-top">
+            <li><img src="./cwzj/partner1.png"></li>
+            <li><img src="./cwzj/partner2.png"></li>
+            <li><img src="./cwzj/partner3.png"></li>
+        </ul>
+        <ul class="partner-bottom">
+            <li><img src="./cwzj/partner4.png"></li>
+            <li><img src="./cwzj/partner5.png"></li>
+            <li><img src="./cwzj/partner6.png"></li>
+        </ul>
+    </div>
+    <!-- parter end -->
     <footer class="footer">
         <div class="footer_tel">
             <img src="./cwzj/footer_tel.png">
