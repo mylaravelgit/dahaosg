@@ -117,7 +117,7 @@
                 <div class="certificate-content-left">
                     <ul>
                         <li><span></span>营业执照正副本</li>
-                        <li><span></span>企业统一社会信用代码证明</li>
+                        <li><span></span>企业社会信用代码证明</li>
                         <li><span></span>公司章程</li>
                         <li><span></span>公司印鉴存留卡</li>
                     </ul>
