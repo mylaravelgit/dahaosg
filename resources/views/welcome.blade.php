@@ -219,6 +219,29 @@
 <script type="text/javascript" src="./cwzj/jquery-2.1.1.min.js"></script>
 
 <div id="LRdiv1" style="display:none;"></div>
+
+<div style="position:fixed; z-index:9999; top:30%;" id="mainSwt">
+    <div style="width:60%;  border:2px solid #CCC; text-align:center; margin:0 auto; position: fixed; left:20%; font-size:100%; background:#fff;" id="Mapneirong">
+        <img src="./cwzj/wapinvitebg.jpg" style="width: 100%;">
+        <a onclick="hidecen();return false;" style="width:40%; float:left;color:#FFF;padding:5px 0; display:block; text-decoration:none; margin: 3% 3% 3% 5%;">
+            <img src="./cwzj/later.png" style="width: 100%;">
+        </a>
+        <a onclick="openZoosUrl('chatwin');LR_HideInvite();return false;" style="width:40%; float:right;padding:5px 0;  color:#FFF;margin: 3% 3% 3% 3%;display:block; text-decoration:none;">
+            <img src="./cwzj/centchat.png" style="width: 100%;">
+        </a>
+    </div>
+</div><script>
+function hidecen(){
+document.getElementById("Mapneirong").style.display="none";
+}
+
+function action_swt(){
+var ele= document.getElementById("LRdiv1");
+if(ele){
+document.getElementById("LRdiv1").style.display="none";
+}
+}
+setInterval("action_swt()", 50);</script>
 <script>
     $(document).ready(function () {
         $("#toggle-btn").click(function () {
