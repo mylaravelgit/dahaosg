@@ -21,7 +21,7 @@
 <body >
 {{----}}
 <div class="layout">
-    <header class="layout_header" id="layout_header" onclick="openZoosUrl(&#39;chatwin&#39;);">
+    <header class="layout_header" id="layout_header">
         <div class="action_bar">
             <a class="list" id="toggle-btn" href="javascript:;">
             </a>
