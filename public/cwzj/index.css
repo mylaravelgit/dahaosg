@@ -166,7 +166,7 @@ body {
 .g-title{
 	padding: 10px 0;
 	text-align: center;
-	font-size: 25px;
+	font-size: 24px;
 	font-weight: bold;
 	color: #565656;
 	border-bottom: 1px solid #ebebf1;
@@ -208,6 +208,8 @@ body {
 .certificate{
 	margin-top: 10px;
 	background: #fff;
+	border-bottom: 1px dotted #0c0c0c;
+	padding: 18px 0px 18px 0px;
 }
 .certificate-content{
 	overflow: hidden;
@@ -232,7 +234,7 @@ body {
 	width: 100%;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	/*white-space: nowrap;*/
 }
 .certificate-content-left ul li span{
 	display: inline-block;
@@ -253,6 +255,8 @@ body {
 	width: 100%;
 	overflow: hidden;
 	padding-top: 2rem;
+	border-bottom: 1px dotted #0c0c0c;
+	padding: 18px 0px 18px 0px;
 }
 
 .others_wrapper li {
@@ -373,6 +377,10 @@ body {
 .layout .layout_body .banner h1 {
 	text-align: center;
 }
+.layout .row1{
+	border-bottom: 1px dotted #0c0c0c;
+	padding: 18px 0px 18px 0px;
+}
 .layout .row1 .con{
      width: 100%;
      clear: both;
@@ -426,6 +434,10 @@ body {
 	text-align: center;
 	background: #FFF701;
 	border-radius: 100%;
+}
+.layout .row4{
+	border-bottom: 1px dotted #0c0c0c;
+	padding: 18px 0px 18px 0px;
 }
 .layout .row4>img{
 	width: 93.333%;

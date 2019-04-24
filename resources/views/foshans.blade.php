@@ -2,18 +2,18 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
 
-<<<<<<< HEAD
+
     <title>免费代办佛山公司注册</title>
-=======
+
     <title>大好时光（佛山市）企业管理有限公司,佛山公司注册,佛山代理注册公司</title>
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+
     <meta name="keywords" content="佛山公司注册,佛山注册公司,佛山工商注册">
     <meta name="description" content="佛山代理注册公司需要多少钱，如何注册佛山公司？0元代办佛山公司注册，免佛山工商注册代理费、佛山工商注册公司工本费，提供佛山公司注册地址，大好时光免费代办佛山注册公司。">
     <link rel="stylesheet" type="text/css" href="./foshans/zc.css">
     <script charset="utf-8" src="./foshan/v.js"></script>
     <link rel="stylesheet" type="text/css" href="./foshan/main.css">
     <link href="style/index.css" rel="stylesheet" type="text/css">
-<<<<<<< HEAD
+
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
     <script type="text/javascript">
         function init(){
@@ -73,7 +73,7 @@
 
 <!--中部-->
 <div class="pure-g" onclick="openZoosUrl(&#39;chatwin&#39;);">
-=======
+
     <script>
         function open_chat()
         {
@@ -186,7 +186,7 @@
         </a> </div>
 </div>
 <div class="pure-g">
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+
     <div class="pure-u-1 r_1">
         <div class="wrapper">
             <h2>佛山公司注册仅需三大步骤</h2>
@@ -345,7 +345,7 @@
                 </dl>
             </div>
         </div>
-<<<<<<< HEAD
+
         <table>
             <tbody><tr>
                 <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
@@ -368,7 +368,7 @@
                 <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>
             </tr>
             </tbody></table>
-=======
+
 {{--        <table>--}}
 {{--            <tbody><tr>--}}
 {{--                <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
@@ -391,7 +391,7 @@
 {{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>--}}
 {{--            </tr>--}}
 {{--            </tbody></table>--}}
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+
     </div>
     <div class="pure-u-1 r_5" style="padding:96px 0px">
         <p><img src="./foshan/call_phone.png" width="366" height="65" alt="" style="margin: 0 auto;"></p>
@@ -413,11 +413,8 @@
                 <tr>
                     <th width="120">项目</th>
                     <th width="274">名称</th>
-<<<<<<< HEAD
                     <th width="400">大好时光</th>
-=======
                     <th width="400">大好时光（佛山市）企业管理有限公司</th>
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
                     <th width="400">其他佛山代理注册公司</th>
                 </tr>
                 <tr>
@@ -494,7 +491,6 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
 {{--    start--}}
 
     <div class="ter-box">
@@ -660,7 +656,6 @@
             <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
             <p>  <a href="/in">关于我们</a></p>
 
-=======
     <div class="pure-u-1 r_8">
         <div class="wrapper">
             <h2>常见问题</h2>
@@ -715,7 +710,6 @@
                             <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>
                         </ul>
             <p>Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
         </div>
 {{--        <div class="zx-rig">--}}
 {{--            <p>400-850-0074</p>--}}
@@ -725,7 +719,6 @@
 </div>
 
 
-<<<<<<< HEAD
 {{--<script language="javascript" src="./cwzj/LsJS.aspx"></script><link href="./cwzj/JS5.css" rel="stylesheet" type="text/css"><div id="LRdiv0" style="display: block;"><div id="LRfloater0" style="z-index: 2147483647; right: 0px; top: 150px; position: fixed !important;"><div id="swtColse" style="width:20px; height:15px; top:0px; right:0px; position:absolute;background-image: url(./cwzj/7.gif);background-repeat: no-repeat;background-position: right top;cursor:pointer;" onclick="LR_Hidemobileinvite(0);onlinerIcon0.hidden();"></div><img title="如果您有什么问题,请点击此处进行即时沟通;" alt="如果您有什么问题,请点击此处进行即时沟通;" src="./cwzj/online_cn.png" style="cursor:pointer" onclick="openZoosUrl(&#39;chatwin&#39;);"></div></div><div id="LRdiv1" style="display:none;"></div>--}}
 <style>
     @-webkit-keyframes moveToBottom {
@@ -752,7 +745,5 @@
 </style>
 
 {{--<script language="javascript" src="./cwzj/LsJS.aspx"></script>--}}
-=======
 
->>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
 </body></html>

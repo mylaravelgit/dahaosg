@@ -16,10 +16,10 @@
     <meta name="apple-mobile-web-app-title" content="大好时光">
     <meta name="format-detection" content="telephone=no">
     <link rel="stylesheet" href="./cwzj/index.css">
-    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
+{{--    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>--}}
 </head>
-<body onclick="openZoosUrl(&#39;chatwin&#39;);">
-
+<body oncli>
+{{--ck="openZoosUrl(&#39;chatwin&#39;);"--}}
 <div class="layout">
     <header class="layout_header" id="layout_header">
         <div class="action_bar">
@@ -45,6 +45,7 @@
             <p style="margin-top:10px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
             <h1 style="font-size: 30px;margin-top: 10px;color: #f57a17">提供佛山公司注册地址</h1>
             <p style="margin-top:10px; font-size:25px; text-align:center">免费代办公司注册</p>
+            <p style="margin-top:20px; font-size:30px; text-align:center">400-850-0074</p>
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
@@ -82,6 +83,8 @@
             </p>
             <p  class="sub_title" style="color:#8e8e8e; text-decoration:line-through; font-size:14px; margin-top:14px">找其他佛山代办注册公司：￥500-1500元</p>
             <div class="fn-clear"></div>
+            <p style="margin-top:20px; font-size:25px; text-align:center">400-850-0074</p>
+
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
@@ -90,13 +93,14 @@
         <div class="Quick-Register">
             <div class="g-title">
                 <span>4步</span>快速注册，尽享大好时光
-                <p class="">【省力】摆脱繁复，让创业更简单</p>
+                <p style="margin-top:10px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
+
             </div>
             <div class="Quick-content">
                 <img src="./cwzj/wap4-bg_03.jpg" alt="">
             </div>
             <div class="bottom-text">
-                您仅需提供 【3-5个公司名称】 【公司成员身份证】 【公司地址证明】
+                您仅需提供 【3-5个公司名称】<p></p> 【公司成员身份证】 【公司地址证明】
             </div>
         </div>
         <!--4步快速注册-end-->
@@ -201,6 +205,7 @@
                 实力说明一切
             </p>
             <img src="./cwzj/row4_i1.png">
+            <p style="margin-top:20px; font-size:25px; text-align:center">400-850-0074</p>
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
@@ -283,6 +288,7 @@
                     汇算清缴报告
                 </div>
             </div>
+            <p style="margin-top:30px; font-size:25px; text-align:center">400-850-0074</p>
             <p class="go_btn">
                 <a href="javascript:void(0);" onclick="openZoosUrl(&#39;chatwin&#39;);"style="">点我立即咨询</a>
             </p>
