@@ -223,7 +223,7 @@
 <div id="LRdiv1" style="display:none;"></div>
 
 <div style="position:fixed; z-index:9999; top:30%;" id="mainSwt">
-    <div style="width:60%;  border:2px solid #CCC; text-align:center; margin:0 auto; position: fixed; left:20%; font-size:100%; background:#fff;" id="Mapneirong">
+    <div style="width:60%;  border:2px solid #CCC; text-align:center; margin:0 auto; position: fixed; left:20%; font-size:100%; background:#fff;display: none" id="Mapneirong">
         <img src="./cwzj/wapinvitebg.jpg" style="width: 100%;">
         <a onclick="hidecen();return false;" style="width:40%; float:left;color:#FFF;padding:5px 0; display:block; text-decoration:none; margin: 3% 3% 3% 5%;">
             <img src="./cwzj/later.png" style="width: 100%;">
@@ -243,7 +243,7 @@ if(ele){
 document.getElementById("LRdiv1").style.display="none";
 }
 }
-setInterval("action_swt()", 50);</script>
+setInterval("action_swt()", 1000);</script>
 <script>
     $(document).ready(function () {
         $("#toggle-btn").click(function () {
@@ -252,7 +252,9 @@ setInterval("action_swt()", 50);</script>
 
     })
 </script>
-
+<script type="text/javascript">
+    setTimeout(function(){document.getElementById("Mapneirong").style.display="block";},10000);
+</script>
 
 </body>
 </html>
