@@ -39,6 +39,7 @@
             </li>
         </ul>
     </header>
+
     <div class="layout_body" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <div class="banner" style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
             <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
@@ -51,6 +52,7 @@
             </p>
 
         </div>
+        <img src="./cwzj/1fcf911.png" class="gszc-industry-que">
         <div class="row1">
             <p class="title">
                 佛山公司注册
