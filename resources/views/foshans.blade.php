@@ -23,12 +23,12 @@
 
         }
     </script>
-{{--    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>--}}
+    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>
     </head>
 
-<body  onload="init();" >
+<body  onload="init();" onclick="openZoosUrl(&#39;chatwin&#39;);">
 
-<!--logo onclick="openZoosUrl(&#39;chatwin&#39;);"    onload="init();"  onclick="open_chat()"-->
+<!--logo    onload="init();"  onclick="open_chat()"-->
 
 <!--banner-->
 <div class="top" onclick="openZoosUrl(&#39;chatwin&#39;);">
