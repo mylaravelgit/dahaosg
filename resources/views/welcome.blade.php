@@ -42,9 +42,9 @@
 
     <div class="layout_body" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <div class="banner" style="background:url(./foshan/background.jpg) top center no-repeat;  color:#fff; background-position: 0px 0px;">
-            <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">免费代办佛山公司注册</h1>
+            <h1 style="font-size: 30px;margin-top: 50px;color: #f57a17">10年专注公司注册</h1>
             <p style="margin-top:20px; font-size:25px; text-align:center">省心/省钱的全程服务</p>
-            <h1 style="font-size: 30px;margin-top: 30px;color: #f57a17">提供佛山公司注册地址</h1>
+            <h1 style="font-size: 30px;margin-top: 30px;color: #f57a17">提供广东公司注册地址</h1>
             <p style="margin-top:30px; font-size:20px; text-align:center">免费代办公司注册</p>
             <p style="margin-top:25px; font-size:17px; text-align:center">400-850-0074</p>
             <p class="go_btn">
@@ -55,7 +55,7 @@
         <img src="./cwzj/1fcf911.png" class="gszc-industry-que">
         <div class="row1">
             <p class="title">
-                佛山公司注册
+                广东公司注册
             </p>
             <p class="sub_title">
                 只需三步 完成注册
@@ -82,9 +82,9 @@
                 所以选择很重要
             </p>
             <p class="sub_title" style="font-size: 2rem; margin-top: 10px">
-                ￥ <span style="color:red">0.00</span>元佛山代理注册公司费用
+                ￥ <span style="color:red">0.00</span>元广东代理注册公司费用
             </p>
-            <p  class="sub_title" style="color:#8e8e8e; text-decoration:line-through; font-size:14px; margin-top:14px">找其他佛山代办注册公司：￥500-1500元</p>
+            <p  class="sub_title" style="color:#8e8e8e; text-decoration:line-through; font-size:14px; margin-top:14px">找其他广东代办注册公司：￥500-1500元</p>
             <div class="fn-clear"></div>
             <p style="margin-top:20px; font-size:20px; text-align:center">400-850-0074</p>
 
@@ -141,21 +141,21 @@
                     不免费，表面免费附加消费一大堆
                 </li>
                 <li>
-                    免佛山工商代理注册公司服务费
+                    免广东工商代理注册公司服务费
                     <span>费用</span>
                 </li>
                 <li>
                     时间不太确定，变故多
                 </li>
                 <li>
-                    精通佛山注册公司流程
+                    精通广东注册公司流程
                     <span>效率</span>
                 </li>
                 <li>
                     不专业  费时费力
                 </li>
                 <li>
-                   可提供佛山公司注册地址
+                   可提供广东公司注册地址
                     <span>服务</span>
                 </li>
                 <li>
@@ -207,7 +207,7 @@
     </div>
 
     <div class="pattern">
-        <p class="copyright">大好时光（佛山市）企业管理有限公司&nbsp;<br><a href="http://www.beian.miit.gov.cn" >粤ICP备18159108号</a></p>
+        <p class="copyright">大好时光（广东）企业管理有限公司&nbsp;<br><a href="http://www.beian.miit.gov.cn" >粤ICP备18159108号</a></p>
 
     </div>
 
